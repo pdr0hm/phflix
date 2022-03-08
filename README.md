@@ -14,8 +14,6 @@ A página irá carregar automaticamente quando realizar alterações.
 
 Layout:
 
-<p align="center">
-  <img width="1280" height="720" src="src/assets/PHFLIX.gif">
- </p> 
+![DEMO](https://media.giphy.com/media/OZQ05WtQs6TE9IfETF/giphy-downsized-large.gif)
 
 
